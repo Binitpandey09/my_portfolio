@@ -1,5 +1,5 @@
 import React from 'react';
-import { Github as GitHub, Linkedin, Mail, Phone } from 'lucide-react';
+import { Github as GitHub, Linkedin, Mail, Phone, FileText } from 'lucide-react';
 
 interface HeroSectionProps {
   darkMode: boolean;
@@ -21,7 +21,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ darkMode }) => {
               Binit Kumar Pandey
             </h1>
             <h2 className="text-xl md:text-2xl font-medium text-gray-500 dark:text-gray-300 mb-6">
-              Computer Science Student & Web Developer
+              Computer Science Student & Aspiring Web Developer
             </h2>
             <p className={`mb-8 max-w-2xl mx-auto ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
               I'm passionate about building web applications, solving algorithms, and creating meaningful projects.
@@ -48,11 +48,19 @@ const HeroSection: React.FC<HeroSectionProps> = ({ darkMode }) => {
                 <span>LinkedIn</span>
               </a>
               <a 
-                href="mailto:vnitpandey05@gmail.com"
+                href="mailto:vnitpandey858@gmail.com"
                 className="flex items-center gap-2 px-4 py-2 bg-red-500 text-white rounded-md hover:bg-red-600 transition duration-300"
               >
                 <Mail size={18} />
                 <span>Email</span>
+              </a>
+              <a
+                href="/resume.pdf"
+                download
+                className="flex items-center gap-2 px-4 py-2 bg-green-600 text-white rounded-md hover:bg-green-700 transition duration-300"
+              >
+                <FileText size={18} />
+                <span>Resume</span>
               </a>
             </div>
             
