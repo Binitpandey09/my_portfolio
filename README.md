@@ -1,4 +1,4 @@
-# Binit Kumar Pandey Portfolio
+# Binit Kumar Pandey Personal-Portfolio
 
 ## Overview
 Welcome to my personal portfolio website repository. This website showcases my projects, skills, and experience as a Computer Science student and aspiring web developer.
