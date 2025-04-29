@@ -4,11 +4,30 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Binit Kumar Pandey - Computer Science Student & Web Developer Portfolio">
-    <meta name="keywords" content="Binit Kumar Pandey, Web Developer, Portfolio, React, JavaScript, Computer Science">
+    <meta name="description" content="Binit Kumar Pandey - Computer Science Student & Web Developer Portfolio" />
+    <meta name="keywords" content="Binit Kumar Pandey, Web Developer, Portfolio, React, JavaScript, Computer Science" />
     <title>Binit Kumar Pandey | Portfolio</title>
   </head>
-  <body>
+  <body style="font-family: sans-serif; text-align: center; padding-top: 30px;">
+    
+    <h1>Click Below to Open My Portfolio</h1>
+
+    <a href="https://7f48-112-196-62-5.ngrok-free.app" target="_blank">
+      <img 
+        src="/thumbnail.png" 
+        alt="Click to open portfolio"
+        style="
+          width: 300px;
+          border-radius: 10px;
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+          transition: transform 0.3s ease;
+          cursor: pointer;
+        "
+        onmouseover="this.style.transform='scale(1.05)'"
+        onmouseout="this.style.transform='scale(1)'"
+      />
+    </a>
+
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
