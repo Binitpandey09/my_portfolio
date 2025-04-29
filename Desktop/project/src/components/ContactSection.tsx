@@ -76,7 +76,7 @@ const ContactSection: React.FC<ContactProps> = ({ darkMode }) => {
                       href="mailto:vnitpandey05@gmail.com" 
                       className="text-blue-500 hover:underline"
                     >
-                      vnitpandey05@gmail.com
+                      vnitpandey858@gmail.com
                     </a>
                   </div>
                 </div>

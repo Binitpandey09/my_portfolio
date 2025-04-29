@@ -26,7 +26,7 @@ const Footer: React.FC<FooterProps> = ({ darkMode }) => {
               Binit<span className="text-blue-500">.dev</span>
             </h2>
             <p className={`mt-2 ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
-              Computer Science Student & Web Developer
+              Computer Science Student & Aspiring Web Developer
             </p>
           </div>
           
