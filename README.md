@@ -4,9 +4,6 @@ checking webhook
 ## Overview
 Welcome to my personal portfolio website repository. This website showcases my projects, skills, and experience as a Computer Science student and aspiring web developer.
 
-## Image
-[![Click to View My Portfolio](https://img.shields.io/badge/Click%20Here-To%20View%20Portfolio-blue?style=for-the-badge)](https://7f48-112-196-62-5.ngrok-free.app)
-
 
 ## 🚀 Live Demo
 [Visit my portfolio website](https://my-portfolio-lake-pi-87.vercel.app/)
