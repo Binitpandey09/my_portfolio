@@ -73,10 +73,10 @@ const ContactSection: React.FC<ContactProps> = ({ darkMode }) => {
                   <div>
                     <h4 className="font-medium">Email</h4>
                     <a 
-                      href="mailto:vnitpandey05@gmail.com" 
+                      href="mailto:vinitpandey858@gmail.com" 
                       className="text-blue-500 hover:underline"
                     >
-                      vnitpandey858@gmail.com
+                      vinitpandey858@gmail.com
                     </a>
                   </div>
                 </div>
