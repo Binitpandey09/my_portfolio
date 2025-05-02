@@ -21,7 +21,7 @@ const AchievementsSection: React.FC<AchievementsProps> = ({ darkMode }) => {
       platform: 'CodeForces',
       username: 'binItpandey09',
       rank: 'Newbie',
-      rating: 'Max Rating: 967',
+      rating: 'Max Rating: 1120',
       icon: <Trophy size={24} />,
       color: 'bg-gray-500',
       url: 'https://codeforces.com/profile/binItpandey09'
