@@ -42,7 +42,7 @@ const AchievementsSection: React.FC<AchievementsProps> = ({ darkMode }) => {
       rating: 'Max Rating: 1459',
       icon: <Code size={24} />,
       color: 'bg-orange-500',
-      url: 'https://leetcode.com/binItpandey09/'
+      url: 'https://leetcode.com/binit_pandey09/'
     },
     {
       platform: 'AtCoder',
