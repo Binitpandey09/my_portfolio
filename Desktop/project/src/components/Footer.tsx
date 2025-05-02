@@ -52,7 +52,7 @@ const Footer: React.FC<FooterProps> = ({ darkMode }) => {
               <Linkedin size={20} />
             </a>
             <a 
-              href="mailto:vnitpandey05@gmail.com"
+              href="mailto:vinitpandey858@gmail.com"
               className={`p-2 rounded-full transition-colors ${
                 darkMode ? 'bg-slate-700 hover:bg-slate-600' : 'bg-gray-200 hover:bg-gray-300'
               }`}
