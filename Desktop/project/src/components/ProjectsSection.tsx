@@ -43,7 +43,7 @@ const ProjectsSection: React.FC<ProjectsProps> = ({ darkMode }) => {
         'Integrated synchronous animation controls with speed adjustment for enhanced user experience'
       ],
       image: 'https://images.pexels.com/photos/163427/chess-figure-chess-pieces-black-163427.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-      github: 'https://github.com/BinItpandey09'
+      github: 'https://github.com/Binitpandey09/N-Queens-Visualizer'
     },
     {
       id: 3,
